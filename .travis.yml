@@ -14,7 +14,7 @@ stages:
 jobs:
   include:
     - stage: WikiUpdate
-      if: (branch = master) AND (type = push)
+      if: (branch = feature/wiki-ci) AND (type = push)
       script:
         - rm -rf ${REPO_SOURCE}
         - rm -rf ${REPO_DEST}
