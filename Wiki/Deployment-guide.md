@@ -66,7 +66,7 @@ Register an Azure AD application in your tenant's directory.
 ## 2. Deploy to your Azure subscription
 1. Click on the **Deploy to Azure** button below.
    
-   [![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FOfficeDev%2Fmicrosoft-teams-company-communicator-app%2Fmaster%2FDeployment%2Fazuredeploy.json)
+   [![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fthitiwats%2Fmicrosoft-teams-apps-company-communicator%2Fmaster%2FDeployment%2Fazuredeploy.json)
 
 1. When prompted, log in to your Azure subscription.
 
